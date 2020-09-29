@@ -1,1 +1,2 @@
 i'm sam and i like ham. this is our first commit
+hello this is the second line of the code
